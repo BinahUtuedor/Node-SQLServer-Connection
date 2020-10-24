@@ -1,6 +1,6 @@
 var config = {
     user: "sa",
-    password: "Management1!",
+    password: "**********",
     server: "127.0.0.1",
     database: "sampleDb",
     options: {
